@@ -101,7 +101,7 @@ If you are doing the exam on an SAP computer, the working environment has alread
 
 * The **/** endpoint should return a warm welcome message with the current date and time
 
-* **EXPERT:** Instead of the current date and time, the **/** endpoint should return a message stating the active Cloud Foundry ORG and SPACE. Tip: You will need to use a different API to get this information.
+* **EXPERT:** Instead of the current date and time, the **/** endpoint should return a message stating the active Cloud Foundry ORG and SPACE.
 
 ### Task 4: Deploy the application to Cloud Foundry
 
