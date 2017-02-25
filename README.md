@@ -44,7 +44,7 @@ If you are doing the exam on an SAP computer, the working environment has alread
   * URL for the Cloud Foundry API
   * Username and password for Cloud Foundry
 
-1. Fork [this repository](https://github.com/sapmulticloud/candidates-exam) to your own GitHub user
+1. Fork [this repository](https://github.com/sapmulticloud/candidates-exam) to your own GitHub workspace
 
 1. Clone the forked repository to your computer
 
@@ -60,7 +60,7 @@ If you are doing the exam on an SAP computer, the working environment has alread
 
 * Extend ClientService.go to retrieve the list of available buildpacks from Cloud Foundry
 
-* Add the **/buildpacks** endpoint to return a JSON containing the list of buildpacks. The /buildpacks endpoint should return a JSON similar to the example.
+* Add the **/buildpacks** endpoint to return a JSON containing the list of buildpacks. The /buildpacks endpoint should return a JSON similar to the example below.
 
   ```
   [
