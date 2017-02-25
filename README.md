@@ -44,7 +44,7 @@ If you are doing the exam on an SAP computer, the working environment has alread
   * URL for the Cloud Foundry API
   * Username and password for Cloud Foundry
 
-1. Fork [this repository](https://github.com/sapmulticloud/candidates-exam) to your own GitHub workspace
+1. Fork [this repository](https://github.com/sapmulticloud/candidate-exam) to your own GitHub workspace
 
 1. Clone the forked repository to your computer
 
