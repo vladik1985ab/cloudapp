@@ -24,11 +24,11 @@ If you are doing the exam on an SAP computer, the working environment has alread
 
 1. [Optional] Install [IntelliJ Idea Community Edition](https://www.jetbrains.com/idea/#chooseYourEdition) or another IDE of your choice
 
-1. Create ~/go
+1. Create the folder ~/go
 
 1. Set the system environment variable GOPATH to "~/go"
 
-1. Get required Go dependencies (takes a few minutes)
+1. Get some required Go dependencies (takes a few minutes)
 
  ```
  $ go get github.com/cloudfoundry-community/go-cfclient
