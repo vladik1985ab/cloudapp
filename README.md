@@ -1,4 +1,4 @@
-# SAP CxP Multi Cloud - Candidates Exam
+# SAP CxP Multi Cloud - Candidate Exam
 
 Dear candidate,
 
