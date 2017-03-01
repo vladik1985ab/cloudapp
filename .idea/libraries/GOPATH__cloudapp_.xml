@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;cloudapp&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../cloudapp.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../cloudapp.git" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
