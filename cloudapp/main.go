@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-// for reason the client once work and once not , please check yours server side
+// for reason the client once work and once not , please check yours server side - http://prntscr.com/eeqx5d
 
 func main() {
 	m := martini.Classic()

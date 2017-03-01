@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"encoding/json"
 )
-// for reason the client once work and once not , please check yours server side!!!
+// for reason the client once work and once not , please check yours server side!!! http://prntscr.com/eeqx5d
 func main() {
 	c := &cfclient.Config{
 		ApiAddress:   "http://api.40.69.197.1.xip.io",
