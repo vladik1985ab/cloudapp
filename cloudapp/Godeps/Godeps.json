@@ -1,0 +1,37 @@
+{
+	"ImportPath": "cloudapp/cloudapp",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry-community/go-cfclient",
+			"Rev": "4baef162cb52acb882b0cb991756604c7fa4c580"
+		},
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-188-g22fa469",
+			"Rev": "22fa46961aabd2665cf3f1343b146d20028f5071"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "906cda9512f77671ab44f8c8563b13a8e707b230"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "810daf0509f84359cfa9527f6ea4886f1dbabfc5"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/clientcredentials",
+			"Rev": "810daf0509f84359cfa9527f6ea4886f1dbabfc5"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "810daf0509f84359cfa9527f6ea4886f1dbabfc5"
+		}
+	]
+}
