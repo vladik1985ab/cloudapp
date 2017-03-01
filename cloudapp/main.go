@@ -52,15 +52,7 @@ func main() {
 	})
 
 	m.Get("/ping", func(res http.ResponseWriter, req *http.Request) {
-		fmt.Println("test", req.URL.Query())
-		sortType := req.URL.Query()["sort"][0]
-		switch sortType {
-		case "shuffle":
-			fmt.Println("one")
-		case "byName":
-			fmt.Println("two")
-		}
-
+		res.Write("ping - works")
 	})
 
 	m.Run()
