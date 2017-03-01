@@ -51,8 +51,8 @@ func main() {
 		}
 	})
 
-	m.Get("/ping", func(res http.ResponseWriter, req *http.Request) {
-		res.Write("ping - works")
+	m.Get("/ping", func() string {
+		return "ping works"
 	})
 
 	m.Run()
